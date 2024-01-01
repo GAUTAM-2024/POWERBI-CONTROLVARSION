@@ -211,7 +211,7 @@
         "lineageTag": "c5c851e9-60dd-40f6-a635-da3c62508507",
         "measures": [
           {
-            "name": "Total Stops",
+            "name": "TotalStops",
             "expression": "count(Clean_Dataset[stops])",
             "formatString": "0",
             "lineageTag": "42378323-65b3-41ae-80d3-cb3bad4f07a5"
